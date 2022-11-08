@@ -7,3 +7,5 @@ tags: [javascript, typescript]
 ---
 
 # What's inside the async await?
+
+My takes on async/await vs Promise
